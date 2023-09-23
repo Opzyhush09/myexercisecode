@@ -1,0 +1,68 @@
+
+body {
+    font-family: cursive;
+    margin-left: 2px;
+    padding-bottom: 50px;
+}
+
+
+h3 {
+    
+    color: white;
+    font-family: arial;
+    margin:  25px;
+    padding-bottom: 3px;
+}
+
+p {
+    color: white;
+    font-size: 0.9rem;
+    margin-left: 25px;
+    padding-bottom: 25px;
+}
+
+.container {
+    padding-left: 500px;
+    padding-top: 200px;
+}
+
+.st-container {
+    float: left;
+    width: 180px;
+    height: 300px;
+    background-color: #FFB000;
+}
+
+.nd-container {
+    float: left;
+    width: 180px;
+    height: 300px;
+    background-color: #176B87;
+}
+
+.rd-container {
+    float: left;
+    width: 180px;
+    height: 300px;
+    background-color: #053B50;
+
+}
+
+.my-car {
+    width: 25px;
+    padding-top: 5px;
+    margin-left: 20px;
+}
+
+.btn {
+   
+   float: right;
+   margin: auto 43px;
+   border-radius: 20px;
+   border-style: #fff;
+    
+}
+
+.Learn {
+    color: black;
+}
